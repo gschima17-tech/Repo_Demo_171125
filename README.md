@@ -47,6 +47,9 @@ This portfolio demonstrates my ability to:
 - Learn and apply **new technical skills** quickly  
 - Analyze, visualize, and interpret data  
 - Build **structured and reproducible workflows**  
-- Prepare for real-world data analyst tasks 
+- Prepare for real-world data analyst tasks
+
+---
+
 ![Image desrcription](https://github.com/gschima17-tech/Repo_Demo_171125/blob/888884b789a69465e2d93727be3fdd6f24d3b96e/wk5.png?raw=true)
 ![Image desrcription](https://github.com/gschima17-tech/Repo_Demo_171125/blob/888884b789a69465e2d93727be3fdd6f24d3b96e/wk6.png?raw=true)
