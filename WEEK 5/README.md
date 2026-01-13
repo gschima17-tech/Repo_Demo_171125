@@ -72,5 +72,5 @@ Planned next steps include:
 - Combining cloud tools with SQL and Python projects  
 - Continuing preparation for the **Azure DP-900 certification**
 
-Here is a snapshot of my Week 5 workbook:
+Here is a snapshot of my Week 5 workbook: Lab Project
 ![Week 5 Project Screenshot](https://github.com/gschima17-tech/Repo_Demo_171125/blob/37d4456b13b187b9735fcfefbaae7f0d6f417a3a/wk5.png?raw=true)

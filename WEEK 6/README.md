@@ -64,6 +64,6 @@ This project marks a key step in my transition into data analytics by showing:
 - Combine Python with Excel, SQL, and visualization tools  
 - Apply Python skills to **real-world datasets** and projects 
 
-Here is a snapshot of my Week 6 workbook:
-![Week 6 Project Screenshot]https://github.com/gschima17-tech/Repo_Demo_171125/blob/5b89bb0dcbbcd1390dee4af64ad902a5856c82c6/wk6.png?raw=true)
+Here is a snapshot of my Week 6 workbook: Python
+![Week 6 Project Screenshot](https://github.com/gschima17-tech/Repo_Demo_171125/blob/5b89bb0dcbbcd1390dee4af64ad902a5856c82c6/wk6.png?raw=true)
 
