@@ -1,8 +1,12 @@
 # Repo_Demo_171125
-> # WEEK 1: INTRODUCTION TO DATA ANALYSIS & EXCEL WEEK 1/
-[week1_image](WK1 SS.png) WEEK 1/WK1 SS.png
-# Week2 INTRODUCTION TO VISUALISATION TOOLS: TABLEAU & POWERBI
-[week2_image](WK2 SS.png)
-# Week3 BASICS OF DATABASES & SQL
-# Week5 CLOUD COMPUTING & AZURE DATA FUNDAMENTALS (DP900)
-# Week6 Introduction to Python
+This project was completed as part of a Data Analyst Bootcamp, covering:
+
+Week 1: Data Analysis & Excel
+
+Week 2: Tableau & Power BI
+
+Week 3: Databases & SQL
+
+Week 5: Cloud Computing & Azure DP-900
+
+Week 6: Python for Data Analysis
