@@ -89,4 +89,4 @@ It serves as a foundation for all subsequent projects in my portfolio.
 
 Here is a snapshot of my Week 1 workbook:
 
-![Image desrcription]([wk1.png](https://github.com/gschima17-tech/Repo_Demo_171125/blob/7f1629fe49d1bc1ccb8e80b21e57b1da51fce2ca/wk1.png?raw=true)
+![Excel](https://github.com/gschima17-tech/Repo_Demo_171125/blob/7f1629fe49d1bc1ccb8e80b21e57b1da51fce2ca/wk1.png?raw=true)
