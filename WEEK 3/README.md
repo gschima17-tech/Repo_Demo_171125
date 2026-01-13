@@ -62,5 +62,5 @@ This experience strengthened my readiness for **real-world data analysis scenari
 
 ---
 
-Here is a snapshot of my Week 3 workbook:
+Here is a snapshot of my Week 3 workbook: MySQL
 ![Week 3 Project Screenshot](https://github.com/gschima17-tech/Repo_Demo_171125/blob/9cbd0b68d94de636d047e459c5c9e1fd62fe96d5/wk3.png?raw=true)
