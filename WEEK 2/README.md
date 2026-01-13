@@ -46,7 +46,8 @@ Progress and learning outcomes were measured through **in-class mini-projects, l
 As a **career changer into data analytics**, this project represents an important milestone in developing the ability to **communicate insights visually**,
 a key skill for data analyst roles.
 
-Here is a snapshot of my Week 2 workbook:
+Here is a snapshot of my Week 2 workbook: Power BI
 ![Image desrcription](https://github.com/gschima17-tech/Repo_Demo_171125/blob/98f06329d23aac6e8c320e6143c5ef3948bb0870/wk2.png?raw=true)
 
+Here is a snapshot of my Week 2 workbook: Tableau
 ![Image desrcription](https://github.com/gschima17-tech/Repo_Demo_171125/blob/98f06329d23aac6e8c320e6143c5ef3948bb0870/wk2a.png?raw=true)
