@@ -1,41 +1,63 @@
-📊 Week 3: BASICS OF DATABASES & SQL
-Data Analyst Bootcamp Project
-Project Overview
+# 📊 Week 3: Basics of Databases & SQL
 
-📌 Project Overview
-This project is part of my Data Analyst Bootcamp and focuses on the Basics of Databases and SQL.
-The aim of this workbook was to build a solid understanding of how database systems store,organise,
-and manage data, which is essential for effective data analysis.
-Through practical labs and guided exercises, I explored the differences between relational and non-relational databases,
-key database concepts, and how SQL is used to interact with structured data.
+### Data Analyst Bootcamp Project  
+**Author:** [Your Name]  
+**Background:** Career Changer into Data Analytics  
 
-🎯 Learning Objectives
+---
+
+## 📌 Project Overview
+
+This project is part of my **Data Analyst Bootcamp** and focuses on the **Basics of Databases and SQL**.  
+The aim of this workbook was to build a solid understanding of how database systems store, organise, and manage data, which is essential for effective data analysis.
+
+Through practical labs and guided exercises, I explored the differences between **relational and non-relational databases**, key database concepts, and how SQL is used to interact with structured data.
+
+---
+
+## 🎯 Learning Objectives
+
 By completing this project, I aimed to:
-Understand what a database management system (DBMS) is and why it is important
-Distinguish between relational and non-relational databases
-Learn key database terminology such as tables, rows, columns, primary keys, and relationships
-Develop foundational SQL knowledge to support data analysis tasks
 
-🛠 Tools & Technologies Used
-SQL
-Relational database concepts
-Practice database environments used in bootcamp labs
+- Understand what a Database Management System (DBMS) is and why it is important  
+- Distinguish between **relational** and **non-relational** databases  
+- Learn key database terminology such as tables, rows, columns, primary keys, and relationships  
+- Develop foundational SQL knowledge to support data analysis tasks  
 
-🔍 Key Topics Covered
-Introduction to database systems
-Relational vs non-relational databases
-Database structure and relationships
-Basic SQL concepts and queries
-How databases support data analysis workflows
+---
 
-📈 Key Takeaways & Skills Gained
+## 🛠 Tools & Technologies Used
+
+- **SQL**
+- Relational database concepts
+- Practice database environments used in bootcamp labs
+
+---
+
+## 🔍 Key Topics Covered
+
+- Introduction to database systems  
+- Relational vs non-relational databases  
+- Database structure and relationships  
+- Basic SQL concepts and queries  
+- How databases support data analysis workflows  
+
+---
+
+## 📈 Key Takeaways & Skills Gained
+
 Through this project, I gained the skills and confidence to:
-Explain how databases are used in data analysis
-Identify appropriate database types for different data needs
-Understand how SQL enables analysts to retrieve and manipulate data
-Prepare for more advanced database and analytics concepts
 
-🚀 Impact & Practical Application
-The impact of this project was demonstrated through hands-on labs, quizzes,
-and mini-projects, which reinforced both theoretical understanding and practical application.
-This experience strengthened my readiness for real-world data analysis scenarios and further study in analytics and data engineering.
+- Explain how databases are used in data analysis  
+- Identify appropriate database types for different data needs  
+- Understand how SQL enables analysts to retrieve and manipulate data  
+- Prepare for more advanced database and analytics concepts  
+
+---
+
+## 🚀 Impact & Practical Application
+
+The impact of this project was demonstrated through **hands-on labs, quizzes, and mini-projects**, which reinforced both theoretical understanding and practical application.  
+This experience strengthened my readiness for **real-world data analysis scenarios** and further study in analytics and data engineering.
+
+---
