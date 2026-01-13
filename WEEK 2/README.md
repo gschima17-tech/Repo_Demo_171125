@@ -48,3 +48,5 @@ a key skill for data analyst roles.
 
 Here is a snapshot of my Week 2 workbook:
 ![Image desrcription](https://github.com/gschima17-tech/Repo_Demo_171125/blob/98f06329d23aac6e8c320e6143c5ef3948bb0870/wk2.png?raw=true)
+
+![Image desrcription](https://github.com/gschima17-tech/Repo_Demo_171125/blob/98f06329d23aac6e8c320e6143c5ef3948bb0870/wk2a.png?raw=true)
