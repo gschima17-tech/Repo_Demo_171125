@@ -47,4 +47,4 @@ As a **career changer into data analytics**, this project represents an importan
 a key skill for data analyst roles.
 
 Here is a snapshot of my Week 2 workbook:
-![Image desrcription](wk2a.png)
+![Image desrcription]([wk2a.png](https://github.com/gschima17-tech/Repo_Demo_171125/blob/98f06329d23aac6e8c320e6143c5ef3948bb0870/wk2.png?raw=true)
