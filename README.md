@@ -6,7 +6,7 @@ A career-changer passionate about **data analytics**, learning how to turn data 
 ---
 
 ## 📌 About Me
-- Transitioning into data analytics from [Your Previous Career / Field]  
+- Transitioning into data analytics from Civil Service
 - Skilled in **data cleaning, analysis, visualization, and reporting**  
 - Eager to solve real-world problems using data-driven insights  
 - Always learning and improving my technical and analytical skills  
